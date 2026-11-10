@@ -1,6 +1,6 @@
 # Sensor-de-ocupacion-de-estacionamiento-IoT
 
-Sistema IoT que detecta si un espacio de estacionamiento está libre u ocupado mediante un sensor ultrasónico, muestra el estado con un LED y un buzzer, y lo publica en tiempo real en una página web accesible desde el celular. Proyecto del curso TEI201 (Taller de Diseño en Ingeniería), Universidad Adolfo Ibáñez, Grupo 10.
+Sistema IoT que detecta si un espacio de estacionamiento está libre u ocupado mediante un sensor ultrasónico, muestra el estado con un LED y un buzzer, y lo publica en tiempo real en una página web accesible desde el celular. Proyecto del curso TEI201 (Taller de Diseño en Ingeniería), Universidad Adolfo Ibáñez.
 
 ## Integrantes
 
